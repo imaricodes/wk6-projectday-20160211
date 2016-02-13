@@ -1,0 +1,27 @@
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.exe.config
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.csprojResolveAssemblyReference.cache
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.exe
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.pdb
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.exe
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\week 6 WCCI\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.csprojResolveAssemblyReference.cache
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.exe.config
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.exe
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.pdb
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.exe
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.pdb
+C:\Users\MRE8Air\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.exe.config
+\\psf\Dropbox\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.exe
+\\psf\Dropbox\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\bin\Debug\wk6-projectday-20160211.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\wk6-projectday-20160211\wk6-projectday-20160211\obj\Debug\wk6-projectday-20160211.csprojResolveAssemblyReference.cache
